@@ -24,7 +24,7 @@ html {
   min-width: var(--layout-min-width);
   max-width: var(--layout-max-width);
   margin: 5rem auto 10rem auto;
-  font-family: var(--fonts-family-sans);
+  font-family: var(--fonts-family-serif);
   font-size: var(--fonts-size-regular);
   text-rendering: optimizeLegibility;
   color: var(--colors-dark);

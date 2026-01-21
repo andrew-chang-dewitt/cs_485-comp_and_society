@@ -22,7 +22,7 @@
 }
 
 :root {
-  --fonts-family-serif: Cascadia Code, serif;
+  --fonts-family-serif: Times New Roman, serif;
   --fonts-family-sans: Montserrat, sans-serif;
   --fonts-family-sans-italic: "Montserrat Italic", italic;
   --fonts-family-mono: Cascadia Code, monospace;
@@ -57,13 +57,13 @@
 @media print {
   :root {
     --fonts-size-tiny: 6pt;
-    --fonts-size-small: 8pt;
-    --fonts-size-regular: 10pt;
-    --fonts-size-regular-medium: 12pt;
-    --fonts-size-medium: 14pt;
-    --fonts-size-large: 16pt;
-    --fonts-size-extra-large: 20pt;
-    --fonts-size-huge: 24pt;
+    --fonts-size-small: 9pt;
+    --fonts-size-regular: 11pt;
+    --fonts-size-regular-medium: 14pt;
+    --fonts-size-medium: 16pt;
+    --fonts-size-large: 20pt;
+    --fonts-size-extra-large: 24pt;
+    --fonts-size-huge: 36pt;
     font-size: 10px;
   }
 }
