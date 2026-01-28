@@ -265,3 +265,100 @@ where one key is used to encrypt messages (& is kept private) while
 another is used to decrypt (& is kept public). this can be used to
 securely share sensitive information only w/ intended recipients, as
 well as to verify who the original encrypter is.
+
+<!--
+## discussion questions
+
+:::{.question}
+
+> 1. In the digital age, should we even expect our online activities to
+>    remain private?
+
+:::
+
+We _should_ be able to, but it is naive and unrealistic to expect
+reality to match this given the current setup.
+
+:::{.question}
+
+> 2. Where do we draw the line between individual rights and security
+>    needs?
+
+:::
+
+This one's a harder q; requires finding some way to balance the
+value of communal security against the value of individual freedom.
+Different societies/cultures are likely to come up with very
+different solutions that are accepted by their people.
+
+:::{.question}
+
+> 3. What new threats to privacy are likely to develop from new
+>    computer, internet, or smartphone applications in the next few
+>    years?
+
+:::
+
+:::{.question}
+
+> 4. Social media is rife with content involving children (generally
+>    posted by their parents). Should children have their right to
+>    privacy and right to say no to such public display of their lives?
+>    Who would enforce such a law if it existed?
+
+:::
+
+:::{.question}
+
+> 5. A Massachusetts high school adopted a policy that allows
+>    administrators to seize cellphones from students and search the
+>    phones when they suspect a phone might contain evidence of illegal
+>    activity. Are there any benefits or risks to this policy?
+
+:::
+
+Not enough benefits; too invasive, teaches them to not trust adults,
+& not likely to actually curtail the activity. It shouldn't be the
+administrators' jobs to enforce the law or conduct investigations.
+
+:::{.question}
+
+> 6. Are businesses that provide free internet services or other
+>    benefits in exchange for tracking web activity offering a fair
+>    option for consumers?
+
+:::
+
+:::{.question}
+
+> 7. Consider the “right to be forgotten”. In what situations, is such
+>    a legal right either a good idea or a bad idea?
+
+:::
+
+:::{.question}
+
+> 8. The city of Philadelphia requires GPS systems in all taxicabs. Is
+>    a government requirement for a tracking system for private taxi
+>    cabs a reasonable public safety measure or an unreasonable
+>    intrusion on the privacy of drivers and passengers?
+
+:::
+
+:::{.question}
+
+> 9. Do young people today view privacy differently from the previous
+>    generation? In what ways their viewpoint might differ and what is
+>    the catalyst for such change?
+
+:::
+
+:::{.question}
+
+> 10. Veterinarians implant computer chips into pets and farm animals
+>     to identify them if they get lost. Some people suggest doing so
+>     for children. Discuss benefits and privacy implications. Do the
+>     benefits outweigh the risks?
+
+:::
+-->
